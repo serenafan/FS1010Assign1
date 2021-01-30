@@ -37,8 +37,8 @@ a:hover {
 
 .overlay-small {
     position: absolute;
-    border-top: 233px solid white;
-    border-right:365px solid transparent;
+    border-top: 230px solid white;
+    border-right:350px solid transparent;
     top:0;
     opacity:0;
 }
@@ -46,7 +46,7 @@ a:hover {
 .overlay-large {
     position: absolute;
     border-top: 525px solid white;
-    border-right:365px solid transparent;
+    border-right:350px solid transparent;
     top:0;
     opacity:0;
 }
